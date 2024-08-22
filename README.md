@@ -1,4 +1,4 @@
-# learnReact
+# Basic React APP - Counter APP
 Hi All, 
 Welcome to this repository to learn React from scratch.
 
